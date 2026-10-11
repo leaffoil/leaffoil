@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm leaffoil 👋
 
-<!--
-**leaffoil/leaffoil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Student 
 
-Here are some ideas to get you started:
+I'm an IT student learning programming and building projects to improve my problem-solving skills. I enjoy experimenting with code, exploring new technologies, and turning ideas into working applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+- Java
+- Git & GitHub
+- Data Structures and Algorithms
+- Software Development
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,linux" alt="Tech stack" />
+</p>
+
+### 📌 Featured Projects
+
+- **G1 Bank Account** - A Java project exploring basic banking operations and programming fundamentals.
+- **Blackjack** - A Java console game focused on game logic and object-oriented programming.
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=leaffoil&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaffoil&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
