@@ -1,15 +1,16 @@
 # Hi, I'm leaffoil 👋
 
-💻 IT Student 
+💻 IT Student
 
 I'm an IT student learning programming and building projects to improve my problem-solving skills. I enjoy experimenting with code, exploring new technologies, and turning ideas into working applications.
+
+🌐 **Portfolio:** [leaffoil.github.io](https://leaffoil.github.io/)
 
 ### 🛠️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,git,github,vscode,linux" alt="Tech stack" />
 </p>
-
 
 ### 📊 GitHub Stats
 
