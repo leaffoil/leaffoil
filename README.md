@@ -12,7 +12,7 @@ I'm an IT student learning programming and building projects to improve my probl
   <img src="https://skillicons.dev/icons?i=java,git,github,vscode,linux" alt="Tech stack" />
 </p>
 
-### 📊 GitHub Stats
+/*### 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=leaffoil&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
@@ -20,4 +20,4 @@ I'm an IT student learning programming and building projects to improve my probl
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaffoil&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+</p>*/
