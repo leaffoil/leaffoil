@@ -48,5 +48,5 @@ Portfolio: [leaffoil.vercel.app](https://leaffoil.vercel.app)
 ---
 
 <p align="center">
-  Thanks for stopping by. Feel free to check out my portfolio or repositories.
+  Thanks for stopping by. Feel free to check out my portfolio or repositories!
 </p>
